@@ -2,9 +2,10 @@
 
 ![cover](./resources/capa.png)
 
-A simple and objective pomodoro timer.  
+### A simple and objective pomodoro timer.  
 Setup your focus time, break time, rounds and rest time.  
-As simple as a tomato  
+_"As simple as a tomato"_  
+
 
 | Screenshot 1 | Screenshot 2 |
 |--------------|--------------|
